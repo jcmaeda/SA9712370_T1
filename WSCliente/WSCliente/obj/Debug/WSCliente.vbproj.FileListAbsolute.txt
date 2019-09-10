@@ -1,0 +1,8 @@
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSCliente\WSCliente\bin\WSCliente.dll
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSCliente\WSCliente\bin\WSCliente.pdb
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSCliente\WSCliente\bin\WSCliente.xml
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSCliente\WSCliente\obj\Debug\WSCliente.Resources.resources
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSCliente\WSCliente\obj\Debug\WSCliente.vbproj.GenerateResource.Cache
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSCliente\WSCliente\obj\Debug\WSCliente.dll
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSCliente\WSCliente\obj\Debug\WSCliente.xml
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSCliente\WSCliente\obj\Debug\WSCliente.pdb

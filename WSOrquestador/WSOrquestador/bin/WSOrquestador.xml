@@ -1,0 +1,132 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WSOrquestador
+</name>
+</assembly>
+<members>
+<member name="M:WSOrquestador.wsCliente.Service1.#ctor">
+	<remarks/>
+</member><member name="E:WSOrquestador.wsCliente.Service1.SolicitarServicioCompleted">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsCliente.Service1.SolicitarServicio">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsCliente.Service1.SolicitarServicioAsync">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsCliente.Service1.SolicitarServicioAsync(System.Object)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsCliente.Service1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsCliente.Service1">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsCliente.SolicitarServicioCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WSOrquestador.wsCliente.SolicitarServicioCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsCliente.SolicitarServicioCompletedEventArgs">
+	<remarks/>
+</member><member name="P:WSOrquestador.My.MyWebExtension.Application">
+	<summary>
+ Devuelve información sobre la aplicación actual.
+ </summary>
+</member><member name="P:WSOrquestador.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:WSOrquestador.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:WSOrquestador.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:WSOrquestador.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:WSOrquestador.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="P:WSOrquestador.My.MyWebExtension.WebServices">
+	<summary>
+ Proporciona acceso a los servicios Web agregados a este proyecto.
+ </summary>
+</member><member name="T:WSOrquestador.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:WSOrquestador.wsUbicacion.Service1.#ctor">
+	<remarks/>
+</member><member name="E:WSOrquestador.wsUbicacion.Service1.UbicacionPilotoCompleted">
+	<remarks/>
+</member><member name="E:WSOrquestador.wsUbicacion.Service1.UbicacionClienteCompleted">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsUbicacion.Service1.UbicacionPiloto(System.String)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsUbicacion.Service1.UbicacionPilotoAsync(System.String)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsUbicacion.Service1.UbicacionPilotoAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsUbicacion.Service1.UbicacionCliente(System.String)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsUbicacion.Service1.UbicacionClienteAsync(System.String)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsUbicacion.Service1.UbicacionClienteAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsUbicacion.Service1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsUbicacion.Service1">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsUbicacion.UbicacionPilotoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WSOrquestador.wsUbicacion.UbicacionPilotoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsUbicacion.UbicacionPilotoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsUbicacion.UbicacionClienteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WSOrquestador.wsUbicacion.UbicacionClienteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsUbicacion.UbicacionClienteCompletedEventArgs">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsPiloto.Service1.#ctor">
+	<remarks/>
+</member><member name="E:WSOrquestador.wsPiloto.Service1.DiponibilidadCompleted">
+	<remarks/>
+</member><member name="E:WSOrquestador.wsPiloto.Service1.EnviarCarreraCompleted">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsPiloto.Service1.Diponibilidad(System.String)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsPiloto.Service1.DiponibilidadAsync(System.String)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsPiloto.Service1.DiponibilidadAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsPiloto.Service1.EnviarCarrera(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsPiloto.Service1.EnviarCarreraAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsPiloto.Service1.EnviarCarreraAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WSOrquestador.wsPiloto.Service1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsPiloto.Service1">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsPiloto.DiponibilidadCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WSOrquestador.wsPiloto.DiponibilidadCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsPiloto.DiponibilidadCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsPiloto.EnviarCarreraCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WSOrquestador.wsPiloto.EnviarCarreraCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WSOrquestador.wsPiloto.EnviarCarreraCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

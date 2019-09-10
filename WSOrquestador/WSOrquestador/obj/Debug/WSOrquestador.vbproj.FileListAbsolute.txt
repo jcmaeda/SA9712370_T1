@@ -1,0 +1,8 @@
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSOrquestador\WSOrquestador\bin\WSOrquestador.dll
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSOrquestador\WSOrquestador\bin\WSOrquestador.pdb
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSOrquestador\WSOrquestador\bin\WSOrquestador.xml
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSOrquestador\WSOrquestador\obj\Debug\WSOrquestador.Resources.resources
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSOrquestador\WSOrquestador\obj\Debug\WSOrquestador.vbproj.GenerateResource.Cache
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSOrquestador\WSOrquestador\obj\Debug\WSOrquestador.dll
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSOrquestador\WSOrquestador\obj\Debug\WSOrquestador.xml
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSOrquestador\WSOrquestador\obj\Debug\WSOrquestador.pdb

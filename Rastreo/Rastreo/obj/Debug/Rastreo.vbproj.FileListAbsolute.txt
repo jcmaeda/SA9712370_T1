@@ -1,0 +1,8 @@
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\Rastreo\Rastreo\bin\Rastreo.dll
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\Rastreo\Rastreo\bin\Rastreo.pdb
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\Rastreo\Rastreo\bin\Rastreo.xml
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\Rastreo\Rastreo\obj\Debug\Rastreo.Resources.resources
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\Rastreo\Rastreo\obj\Debug\Rastreo.vbproj.GenerateResource.Cache
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\Rastreo\Rastreo\obj\Debug\Rastreo.dll
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\Rastreo\Rastreo\obj\Debug\Rastreo.xml
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\Rastreo\Rastreo\obj\Debug\Rastreo.pdb

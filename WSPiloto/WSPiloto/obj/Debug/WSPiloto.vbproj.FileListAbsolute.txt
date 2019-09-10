@@ -1,0 +1,8 @@
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSPiloto\WSPiloto\bin\WSPiloto.dll
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSPiloto\WSPiloto\bin\WSPiloto.pdb
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSPiloto\WSPiloto\bin\WSPiloto.xml
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSPiloto\WSPiloto\obj\Debug\WSPiloto.Resources.resources
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSPiloto\WSPiloto\obj\Debug\WSPiloto.vbproj.GenerateResource.Cache
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSPiloto\WSPiloto\obj\Debug\WSPiloto.dll
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSPiloto\WSPiloto\obj\Debug\WSPiloto.xml
+C:\Users\jcmaeda\Documents\Visual Studio 2010\Projects\SA\WSPiloto\WSPiloto\obj\Debug\WSPiloto.pdb
